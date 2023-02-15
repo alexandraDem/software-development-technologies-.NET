@@ -1,0 +1,7 @@
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice1\bin\Debug\Practice1.exe.config
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice1\bin\Debug\Practice1.exe
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice1\bin\Debug\Practice1.pdb
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice1\obj\Debug\Practice1.exe
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice1\obj\Debug\Practice1.pdb

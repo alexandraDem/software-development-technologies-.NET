@@ -1,0 +1,16 @@
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\bin\Debug\net5.0\Practice2.exe
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\bin\Debug\net5.0\Practice2.deps.json
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\bin\Debug\net5.0\Practice2.runtimeconfig.json
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\bin\Debug\net5.0\Practice2.runtimeconfig.dev.json
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\bin\Debug\net5.0\Practice2.dll
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\bin\Debug\net5.0\ref\Practice2.dll
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\bin\Debug\net5.0\Practice2.pdb
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\Practice2.csproj.AssemblyReference.cache
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\Practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\Practice2.AssemblyInfoInputs.cache
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\Practice2.AssemblyInfo.cs
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\Practice2.dll
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\ref\Practice2.dll
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\Practice2.pdb
+C:\Users\Александра\source\repos\Technologies_of_Making apps\Practice2\obj\Debug\net5.0\Practice2.genruntimeconfig.cache
